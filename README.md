@@ -15,6 +15,8 @@ Group 2 Members:
 
 ### This application is a **Chest X-Ray Image Classifier** that takes the pictures and returns **Normal** for humans without pneumonia and **Pneumonia** for those that are with pneumonia. 
 
+#### For reference: This branch has been forked from [Streamlit existing CNN Pneumonia Classifier](https://github.com/computervisioneng/pneumonia-classification-web-app-python-streamlit) and the python notebook and code was referred from this kaggle code [Code](https://www.kaggle.com/code/amyjang/tensorflow-pneumonia-classification-on-x-rays)
+
 The dataset was taken in the link: [Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification](https://data.mendeley.com/datasets/rscbjbr9sj/2).
 
 We are using an existing Streamlit App that is using a Neural Network. 
@@ -46,5 +48,3 @@ We are using an existing Streamlit App that is using a Neural Network.
 #### After we added to our app, the accuracy was 89.5% that is without pneumonia, so normal person.
 
 <img src="https://i.imgur.com/cI7ncpZ.png" height="30%" width="30%" alt="normal detected "/>
-
-###### ***For reference: This branch has been forked from https://github.com/computervisioneng/pneumonia-classification-web-app-python-streamlit***
