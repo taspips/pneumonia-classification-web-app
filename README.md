@@ -27,7 +27,7 @@ We are using an existing Streamlit App that is using a Neural Network.
 
 2. Creating a .gitignore file and update it as per our requirements.
 
-3. Updating the h5 file.
+3. Updating the python files where required.
 
 4. Updating the README file.
 
