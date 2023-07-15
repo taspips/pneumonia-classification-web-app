@@ -31,7 +31,9 @@ We are using an existing Streamlit App that is using a Neural Network.
 
 4. Updating the README file.
 
-## We are providing some screenshots to see that the application is working: 
+## Demonstration:
+
+[Working video of the Streamlit App - Deployed](https://drive.google.com/file/d/12TnI9QVpC_JWEoZb-AVJ5IdQiAFE4q0E/view?usp=sharing)
 
 #### This is an X-Ray image of a person with pneumonia: 
 
